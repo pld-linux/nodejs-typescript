@@ -2,12 +2,12 @@
 Summary:	TypeScript - language for application scale JavaScript development
 Summary(pl.UTF-8):	TypeScript - język do rozwijania aplikacji w JavaScripcie
 Name:		nodejs-%{pkg}
-Version:	5.8.3
+Version:	5.9.3
 Release:	1
 License:	Apache v2.0
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/typescript/-/%{pkg}-%{version}.tgz
-# Source0-md5:	823004e76ca78f972a429156c829e9d6
+# Source0-md5:	f406611a4941243feee2f09bcc144c47
 URL:		https://www.typescriptlang.org/
 BuildRequires:	rpmbuild(macros) >= 1.634
 BuildRequires:	sed >= 4.0
